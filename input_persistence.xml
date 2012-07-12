@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<InputPersistence>
+  <VersionInformation Incremental="0" Major="0" Minor="1"/>
+  <Bindings>
+    <Count Value="196"/>
+    <binding0>
+      <Name Value="Gui_Hotbar_Col_3"/>
+      <Binding Value="NUMPAD3"/>
+    </binding0>
+    <binding1>
+      <Name Value="a_Toggle_Unsheathe_Object"/>
+      <Binding Value="R"/>
+    </binding1>
+    <binding2>
+      <Name Value="Gui_Hotbar_Col_9"/>
+      <Binding Value=""/>
+    </binding2>
+    <binding3>
+      <Name Value="Gui_Hotbar_Col_9_Row_1"/>
+      <Binding Value=""/>
+    </binding3>
+    <binding4>
+      <Name Value="Gui_Hotbar_Row_Next"/>
+      <Binding Value=""/>
+    </binding4>
+    <binding5>
+      <Name Value="Gui_Hotbar_Col_0_Row_7"/>
+      <Binding Value=""/>
+    </binding5>
+    <binding6>
+      <Name Value="Gui_Hotbar_Col_0_Row_6"/>
+      <Binding Value="T"/>
+    </binding6>
+    <binding7>
+      <Name Value="Gui_Hotbar_Col_0_Row_9"/>
+      <Binding Value=""/>
+    </binding7>
+    <binding8>
+      <Name Value="Gui_Hotbar_Row_0"/>
+      <Binding Value="0"/>
+    </binding8>
+    <binding9>
+      <Name Value="Gui_Window_Skills_Toggle"/>
+      <Binding Value=""/>
+    </binding9>
+    <binding10>
+      <Name Value="a_Run_Forward"/>
+      <Binding Value="W"/>
+    </binding10>
+    <binding11>
+      <Name Value="Gui_Window_Hotbar_Toggle"/>
+      <Binding Value=""/>
+    </binding11>
+    <binding12>
+      <Name Value="Gui_Hotbar_Row_3"/>
+      <Binding Value="3"/>
+    </binding12>
+    <binding13>
+      <Name Value="Gui_Hotbar_Col_1_Row_6"/>
+      <Binding Value=""/>
+    </binding13>
+    <binding14>
+      <Name Value="Gui_Hotbar_Col_6_Row_9"/>
+      <Binding Value=""/>
+    </binding14>
+    <binding15>
+      <Name Value="Gui_GuiMode_Enter"/>
+      <Binding Value=""/>
+    </binding15>
+    <binding16>
+      <Name Value="Gui_Window_Compass_Toggle"/>
+      <Binding Value=""/>
+    </binding16>
+    <binding17>
+      <Name Value="a_Run_Right"/>
+      <Binding Value="D"/>
+    </binding17>
+    <binding18>
+      <Name Value="Gui_Hotbar_Col_6_Row_7"/>
+      <Binding Value=""/>
+    </binding18>
+    <binding19>
+      <Name Value="a_Crouch"/>
+      <Binding Value="C"/>
+    </binding19>
+    <binding20>
+      <Name Value="a_Rotate_Along_Y_Axis"/>
+      <Binding Value="AXIS_Y_0"/>
+    </binding20>
+    <binding21>
+      <Name Value="Gui_Hotbar_Col_2_Row_0"/>
+      <Binding Value=""/>
+    </binding21>
+    <binding22>
+      <Name Value="Gui_Hotbar_Col_0_Row_3"/>
+      <Binding Value="NEXT"/>
+    </binding22>
+    <binding23>
+      <Name Value="Gui_Logout"/>
+      <Binding Value="LEFT_ALT+F4"/>
+    </binding23>
+    <binding24>
+      <Name Value="Gui_Window_Conquest_Toggle"/>
+      <Binding Value=""/>
+    </binding24>
+    <binding25>
+      <Name Value="a_Trigger_Current_Item"/>
+      <Binding Value="BUTTON_0"/>
+    </binding25>
+    <binding26>
+      <Name Value="Gui_Window_Journal_Toggle"/>
+      <Binding Value=""/>
+    </binding26>
+    <binding27>
+      <Name Value="a_Do_Camera_Front_View"/>
+      <Binding Value="F6"/>
+    </binding27>
+    <binding28>
+      <Name Value="Gui_Hotbar_Row_6"/>
+      <Binding Value="6"/>
+    </binding28>
+    <binding29>
+      <Name Value="Gui_Hotbar_Col_0_Row_1"/>
+      <Binding Value="DELETE"/>
+    </binding29>
+    <binding30>
+      <Name Value="Gui_Worldmap_Zoom_In"/>
+      <Binding Value="RIGHT_SHIFT+EQUALS"/>
+    </binding30>
+    <binding31>
+      <Name Value="Gui_Hotbar_Col_3_Row_4"/>
+      <Binding Value=""/>
+    </binding31>
+    <binding32>
+      <Name Value="Gui_Hotbar_Col_6_Row_3"/>
+      <Binding Value=""/>
+    </binding32>
+    <binding33>
+      <Name Value="Gui_Window_ItemCounter_Toggle"/>
+      <Binding Value="I"/>
+    </binding33>
+    <binding34>
+      <Name Value="Gui_Hotbar_Col_4_Row_4"/>
+      <Binding Value=""/>
+    </binding34>
+    <binding35>
+      <Name Value="Gui_Hotbar_Expanded_Toggle"/>
+      <Binding Value=""/>
+    </binding35>
+    <binding36>
+      <Name Value="Gui_Hotbar_Col_5_Row_9"/>
+      <Binding Value=""/>
+    </binding36>
+    <binding37>
+      <Name Value="Gui_Hotbar_Col_0_Row_0"/>
+      <Binding Value="PRIOR"/>
+    </binding37>
+    <binding38>
+      <Name Value="Gui_Hotbar_Col_2_Row_1"/>
+      <Binding Value=""/>
+    </binding38>
+    <binding39>
+      <Name Value="a_Select_Previous_Skill"/>
+      <Binding Value="LEFT_ALT+P"/>
+    </binding39>
+    <binding40>
+      <Name Value="a_Do_Camera_Back_View"/>
+      <Binding Value="F8"/>
+    </binding40>
+    <binding41>
+      <Name Value="a_Sprint"/>
+      <Binding Value="LEFT_SHIFT"/>
+    </binding41>
+    <binding42>
+      <Name Value="Gui_Hotbar_Col_1_Row_9"/>
+      <Binding Value=""/>
+    </binding42>
+    <binding43>
+      <Name Value="Input_Inverted_Mouse_Toggle"/>
+      <Binding Value=""/>
+    </binding43>
+    <binding44>
+      <Name Value="Gui_Hotbar_Col_4_Row_0"/>
+      <Binding Value=""/>
+    </binding44>
+    <binding45>
+      <Name Value="Gui_Hotbar_Col_2_Row_9"/>
+      <Binding Value=""/>
+    </binding45>
+    <binding46>
+      <Name Value="Gui_Hotbar_Col_9_Row_4"/>
+      <Binding Value=""/>
+    </binding46>
+    <binding47>
+      <Name Value="a_Rotate_Right"/>
+      <Binding Value=""/>
+    </binding47>
+    <binding48>
+      <Name Value="Gui_Hotbar_Col_1_Row_2"/>
+      <Binding Value=""/>
+    </binding48>
+    <binding49>
+      <Name Value="Gui_Hotbar_Row_8"/>
+      <Binding Value="8"/>
+    </binding49>
+    <binding50>
+      <Name Value="Gui_Hotbar_Col_4_Row_8"/>
+      <Binding Value=""/>
+    </binding50>
+    <binding51>
+      <Name Value="Gui_Hotbar_Col_8_Row_1"/>
+      <Binding Value=""/>
+    </binding51>
+    <binding52>
+      <Name Value="a_Set_Camera_Speed"/>
+      <Binding Value="AXIS_Z_0"/>
+    </binding52>
+    <binding53>
+      <Name Value="a_Do_Camera_Right_View"/>
+      <Binding Value="F9"/>
+    </binding53>
+    <binding54>
+      <Name Value="Gui_Hotbar_Col_3_Row_3"/>
+      <Binding Value=""/>
+    </binding54>
+    <binding55>
+      <Name Value="Gui_ChatMode_Toggle"/>
+      <Binding Value="RETURN"/>
+    </binding55>
+    <binding56>
+      <Name Value="Gui_Window_Spells_Toggle"/>
+      <Binding Value=""/>
+    </binding56>
+    <binding57>
+      <Name Value="Gui_Hotbar_Col_7"/>
+      <Binding Value="NUMPAD7"/>
+    </binding57>
+    <binding58>
+      <Name Value="a_Alternative_Use"/>
+      <Binding Value="G"/>
+    </binding58>
+    <binding59>
+      <Name Value="Gui_Window_Paperdoll_Toggle"/>
+      <Binding Value="P"/>
+    </binding59>
+    <binding60>
+      <Name Value="Gui_Hotbar_Col_8_Row_6"/>
+      <Binding Value=""/>
+    </binding60>
+    <binding61>
+      <Name Value="Gui_Hotbar_Col_4_Row_9"/>
+      <Binding Value=""/>
+    </binding61>
+    <binding62>
+      <Name Value="Gui_Hotbar_Col_9_Row_2"/>
+      <Binding Value=""/>
+    </binding62>
+    <binding63>
+      <Name Value="Gui_Hotbar_Col_7_Row_6"/>
+      <Binding Value=""/>
+    </binding63>
+    <binding64>
+      <Name Value="Gui_Hotbar_Col_7_Row_0"/>
+      <Binding Value=""/>
+    </binding64>
+    <binding65>
+      <Name Value="Gui_Hotbar_Col_6_Row_4"/>
+      <Binding Value=""/>
+    </binding65>
+    <binding66>
+      <Name Value="Gui_Hotbar_Col_1_Row_3"/>
+      <Binding Value=""/>
+    </binding66>
+    <binding67>
+      <Name Value="Gui_Hotbar_Col_6_Row_6"/>
+      <Binding Value=""/>
+    </binding67>
+    <binding68>
+      <Name Value="a_Run_Left"/>
+      <Binding Value="A"/>
+    </binding68>
+    <binding69>
+      <Name Value="a_Use"/>
+      <Binding Value="F"/>
+    </binding69>
+    <binding70>
+      <Name Value="Gui_Window_Clans_Toggle"/>
+      <Binding Value=""/>
+    </binding70>
+    <binding71>
+      <Name Value="Gui_Hotbar_Col_6_Row_5"/>
+      <Binding Value=""/>
+    </binding71>
+    <binding72>
+      <Name Value="Gui_Window_Playerstats_Toggle"/>
+      <Binding Value=""/>
+    </binding72>
+    <binding73>
+      <Name Value="Gui_Hotbar_Col_9_Row_6"/>
+      <Binding Value=""/>
+    </binding73>
+    <binding74>
+      <Name Value="Gui_Hotbar_Col_2_Row_2"/>
+      <Binding Value=""/>
+    </binding74>
+    <binding75>
+      <Name Value="Gui_Window_Vitalstats_Toggle"/>
+      <Binding Value=""/>
+    </binding75>
+    <binding76>
+      <Name Value="Gui_Hotbar_Col_2_Row_8"/>
+      <Binding Value=""/>
+    </binding76>
+    <binding77>
+      <Name Value="Gui_Hotbar_Col_6_Row_8"/>
+      <Binding Value=""/>
+    </binding77>
+    <binding78>
+      <Name Value="Gui_Hotbar_Row_7"/>
+      <Binding Value="7"/>
+    </binding78>
+    <binding79>
+      <Name Value="a_Toggle_First_Person_Hands"/>
+      <Binding Value="F10"/>
+    </binding79>
+    <binding80>
+      <Name Value="Gui_Hotbar_Col_5_Row_4"/>
+      <Binding Value=""/>
+    </binding80>
+    <binding81>
+      <Name Value="a_Rotate_Left"/>
+      <Binding Value=""/>
+    </binding81>
+    <binding82>
+      <Name Value="Gui_Hotbar_Col_6"/>
+      <Binding Value="NUMPAD6"/>
+    </binding82>
+    <binding83>
+      <Name Value="Gui_Hotbar_Col_Next"/>
+      <Binding Value=""/>
+    </binding83>
+    <binding84>
+      <Name Value="Gui_Hotbar_Col_8_Row_0"/>
+      <Binding Value=""/>
+    </binding84>
+    <binding85>
+      <Name Value="Gui_Hotbar_Row_2"/>
+      <Binding Value="2"/>
+    </binding85>
+    <binding86>
+      <Name Value="Gui_Hide_Toggle"/>
+      <Binding Value="LEFT_ALT+H"/>
+    </binding86>
+    <binding87>
+      <Name Value="a_Jump"/>
+      <Binding Value="SPACE"/>
+    </binding87>
+    <binding88>
+      <Name Value="Gui_Hotbar_Col_3_Row_8"/>
+      <Binding Value=""/>
+    </binding88>
+    <binding89>
+      <Name Value="Gui_Hotbar_Col_4_Row_5"/>
+      <Binding Value=""/>
+    </binding89>
+    <binding90>
+      <Name Value="Gui_Hotbar_Col_7_Row_7"/>
+      <Binding Value=""/>
+    </binding90>
+    <binding91>
+      <Name Value="Gui_Hotbar_Col_3_Row_7"/>
+      <Binding Value=""/>
+    </binding91>
+    <binding92>
+      <Name Value="a_Unsheathe_Object"/>
+      <Binding Value=""/>
+    </binding92>
+    <binding93>
+      <Name Value="Gui_Hotbar_Col_8_Row_3"/>
+      <Binding Value=""/>
+    </binding93>
+    <binding94>
+      <Name Value="Gui_Window_Minimap_Toggle"/>
+      <Binding Value=""/>
+    </binding94>
+    <binding95>
+      <Name Value="Gui_Hotbar_Col_5_Row_7"/>
+      <Binding Value=""/>
+    </binding95>
+    <binding96>
+      <Name Value="Gui_Hotbar_Col_6_Row_1"/>
+      <Binding Value=""/>
+    </binding96>
+    <binding97>
+      <Name Value="Gui_Hotbar_Row_1"/>
+      <Binding Value="1"/>
+    </binding97>
+    <binding98>
+      <Name Value="Gui_Hotbar_Col_9_Row_9"/>
+      <Binding Value=""/>
+    </binding98>
+    <binding99>
+      <Name Value="Gui_Hotbar_Col_6_Row_2"/>
+      <Binding Value=""/>
+    </binding99>
+    <binding100>
+      <Name Value="Gui_Window_Chat_Toggle"/>
+      <Binding Value=""/>
+    </binding100>
+    <binding101>
+      <Name Value="Gui_Hotbar_Col_2"/>
+      <Binding Value="NUMPAD2"/>
+    </binding101>
+    <binding102>
+      <Name Value="Gui_Window_Boards_Toggle"/>
+      <Binding Value=""/>
+    </binding102>
+    <binding103>
+      <Name Value="Gui_Window_Worldmap_Toggle"/>
+      <Binding Value="M"/>
+    </binding103>
+    <binding104>
+      <Name Value="a_Do_Camera_Left_View"/>
+      <Binding Value="F7"/>
+    </binding104>
+    <binding105>
+      <Name Value="Gui_Hotbar_Col_5_Row_2"/>
+      <Binding Value=""/>
+    </binding105>
+    <binding106>
+      <Name Value="a_Select_Default_Skill"/>
+      <Binding Value="LEFT_ALT+D"/>
+    </binding106>
+    <binding107>
+      <Name Value="Gui_Hotbar_Col_7_Row_4"/>
+      <Binding Value=""/>
+    </binding107>
+    <binding108>
+      <Name Value="Gui_Window_Help_Toggle"/>
+      <Binding Value=""/>
+    </binding108>
+    <binding109>
+      <Name Value="Gui_Hotbar_Col_3_Row_1"/>
+      <Binding Value=""/>
+    </binding109>
+    <binding110>
+      <Name Value="a_Rest"/>
+      <Binding Value="H"/>
+    </binding110>
+    <binding111>
+      <Name Value="Gui_Hotbar_Col_9_Row_0"/>
+      <Binding Value=""/>
+    </binding111>
+    <binding112>
+      <Name Value="Gui_Hotbar_Col_5_Row_5"/>
+      <Binding Value=""/>
+    </binding112>
+    <binding113>
+      <Name Value="Gui_Hotbar_Col_8_Row_5"/>
+      <Binding Value=""/>
+    </binding113>
+    <binding114>
+      <Name Value="Gui_Hotbar_Col_5_Row_1"/>
+      <Binding Value=""/>
+    </binding114>
+    <binding115>
+      <Name Value="Gui_Hotbar_Col_9_Row_7"/>
+      <Binding Value=""/>
+    </binding115>
+    <binding116>
+      <Name Value="Gui_Minimap_Zoom_In"/>
+      <Binding Value="EQUALS"/>
+    </binding116>
+    <binding117>
+      <Name Value="Gui_Hotbar_Col_1_Row_1"/>
+      <Binding Value=""/>
+    </binding117>
+    <binding118>
+      <Name Value="Gui_Hotbar_Col_6_Row_0"/>
+      <Binding Value=""/>
+    </binding118>
+    <binding119>
+      <Name Value="Gui_Hotbar_Col_5"/>
+      <Binding Value="NUMPAD5"/>
+    </binding119>
+    <binding120>
+      <Name Value="a_Toggle_Camera_View"/>
+      <Binding Value="F12"/>
+    </binding120>
+    <binding121>
+      <Name Value="Gui_Window_Description_Toggle"/>
+      <Binding Value=""/>
+    </binding121>
+    <binding122>
+      <Name Value="Gui_Hotbar_Col_5_Row_8"/>
+      <Binding Value=""/>
+    </binding122>
+    <binding123>
+      <Name Value="a_Screenshot"/>
+      <Binding Value=""/>
+    </binding123>
+    <binding124>
+      <Name Value="Gui_Hotbar_Col_1_Row_5"/>
+      <Binding Value=""/>
+    </binding124>
+    <binding125>
+      <Name Value="a_Lean_Right"/>
+      <Binding Value=""/>
+    </binding125>
+    <binding126>
+      <Name Value="Gui_Window_Backpack_Toggle"/>
+      <Binding Value="B"/>
+    </binding126>
+    <binding127>
+      <Name Value="a_Select_Revive_Skill"/>
+      <Binding Value="Z"/>
+    </binding127>
+    <binding128>
+      <Name Value="Gui_Hotbar_Col_7_Row_9"/>
+      <Binding Value=""/>
+    </binding128>
+    <binding129>
+      <Name Value="Gui_Hotbar_Col_2_Row_4"/>
+      <Binding Value=""/>
+    </binding129>
+    <binding130>
+      <Name Value="a_Run_Backward"/>
+      <Binding Value="S"/>
+    </binding130>
+    <binding131>
+      <Name Value="Gui_Hotbar_Col_4_Row_3"/>
+      <Binding Value=""/>
+    </binding131>
+    <binding132>
+      <Name Value="a_Rotate_Down"/>
+      <Binding Value=""/>
+    </binding132>
+    <binding133>
+      <Name Value="Gui_Hotbar_Col_8_Row_7"/>
+      <Binding Value=""/>
+    </binding133>
+    <binding134>
+      <Name Value="Gui_Hotbar_Col_3_Row_0"/>
+      <Binding Value=""/>
+    </binding134>
+    <binding135>
+      <Name Value="Gui_Hotbar_Col_4_Row_2"/>
+      <Binding Value=""/>
+    </binding135>
+    <binding136>
+      <Name Value="Gui_Hotbar_Col_9_Row_3"/>
+      <Binding Value=""/>
+    </binding136>
+    <binding137>
+      <Name Value="Gui_Hotbar_Row_Scroll"/>
+      <Binding Value=""/>
+    </binding137>
+    <binding138>
+      <Name Value="Gui_Hotbar_Col_4"/>
+      <Binding Value="NUMPAD4"/>
+    </binding138>
+    <binding139>
+      <Name Value="a_Rotate_Along_X_Axis"/>
+      <Binding Value="AXIS_X_0"/>
+    </binding139>
+    <binding140>
+      <Name Value="Gui_Hotbar_Col_5_Row_6"/>
+      <Binding Value=""/>
+    </binding140>
+    <binding141>
+      <Name Value="a_Toggle_AutoCrouch"/>
+      <Binding Value="LEFT_ALT+C"/>
+    </binding141>
+    <binding142>
+      <Name Value="Gui_Hotbar_Row_Prev"/>
+      <Binding Value=""/>
+    </binding142>
+    <binding143>
+      <Name Value="Gui_Hotbar_Col_2_Row_7"/>
+      <Binding Value=""/>
+    </binding143>
+    <binding144>
+      <Name Value="a_Lean_Left"/>
+      <Binding Value=""/>
+    </binding144>
+    <binding145>
+      <Name Value="Gui_Hotbar_Col_0_Row_4"/>
+      <Binding Value="INSERT"/>
+    </binding145>
+    <binding146>
+      <Name Value="Gui_Hotbar_Col_8"/>
+      <Binding Value="NUMPAD8"/>
+    </binding146>
+    <binding147>
+      <Name Value="Gui_Hotbar_Col_8_Row_9"/>
+      <Binding Value=""/>
+    </binding147>
+    <binding148>
+      <Name Value="Gui_Hotbar_Col_2_Row_6"/>
+      <Binding Value=""/>
+    </binding148>
+    <binding149>
+      <Name Value="Gui_Hotbar_Col_5_Row_0"/>
+      <Binding Value=""/>
+    </binding149>
+    <binding150>
+      <Name Value="Gui_Hotbar_Col_9_Row_8"/>
+      <Binding Value=""/>
+    </binding150>
+    <binding151>
+      <Name Value="Gui_Hotbar_Col_7_Row_5"/>
+      <Binding Value=""/>
+    </binding151>
+    <binding152>
+      <Name Value="a_Select_Gank_Skill"/>
+      <Binding Value="X"/>
+    </binding152>
+    <binding153>
+      <Name Value="Gui_Hotbar_Col_3_Row_2"/>
+      <Binding Value=""/>
+    </binding153>
+    <binding154>
+      <Name Value="Gui_Hotbar_Col_7_Row_8"/>
+      <Binding Value=""/>
+    </binding154>
+    <binding155>
+      <Name Value="Gui_Hotbar_Col_5_Row_3"/>
+      <Binding Value=""/>
+    </binding155>
+    <binding156>
+      <Name Value="Gui_Hotbar_Col_4_Row_1"/>
+      <Binding Value=""/>
+    </binding156>
+    <binding157>
+      <Name Value="a_Toggle_Third_Person_View"/>
+      <Binding Value="F11"/>
+    </binding157>
+    <binding158>
+      <Name Value="Gui_Hotbar_Col_0_Row_5"/>
+      <Binding Value="HOME"/>
+    </binding158>
+    <binding159>
+      <Name Value="a_Rotate_Up"/>
+      <Binding Value=""/>
+    </binding159>
+    <binding160>
+      <Name Value="Gui_Hotbar_Row_5"/>
+      <Binding Value="5"/>
+    </binding160>
+    <binding161>
+      <Name Value="Gui_Hotbar_Col_8_Row_8"/>
+      <Binding Value=""/>
+    </binding161>
+    <binding162>
+      <Name Value="Gui_Worldmap_Zoom_Out"/>
+      <Binding Value="RIGHT_SHIFT+MINUS"/>
+    </binding162>
+    <binding163>
+      <Name Value="Gui_Hotbar_Col_4_Row_6"/>
+      <Binding Value=""/>
+    </binding163>
+    <binding164>
+      <Name Value="Gui_Hotbar_Col_1_Row_4"/>
+      <Binding Value=""/>
+    </binding164>
+    <binding165>
+      <Name Value="Gui_Hotbar_Col_0_Row_8"/>
+      <Binding Value=""/>
+    </binding165>
+    <binding166>
+      <Name Value="Gui_Hotbar_Col_0"/>
+      <Binding Value=""/>
+    </binding166>
+    <binding167>
+      <Name Value="Gui_Hotbar_Col_3_Row_6"/>
+      <Binding Value=""/>
+    </binding167>
+    <binding168>
+      <Name Value="Gui_Hotbar_Col_7_Row_1"/>
+      <Binding Value=""/>
+    </binding168>
+    <binding169>
+      <Name Value="Gui_Hotbar_Col_3_Row_9"/>
+      <Binding Value=""/>
+    </binding169>
+    <binding170>
+      <Name Value="Gui_Hotbar_Col_8_Row_2"/>
+      <Binding Value=""/>
+    </binding170>
+    <binding171>
+      <Name Value="Gui_Hotbar_Col_2_Row_5"/>
+      <Binding Value=""/>
+    </binding171>
+    <binding172>
+      <Name Value="a_Toggle_Enable_Alternative_Attack"/>
+      <Binding Value="BACKSLASH"/>
+    </binding172>
+    <binding173>
+      <Name Value="Gui_Hotbar_Row_4"/>
+      <Binding Value="4"/>
+    </binding173>
+    <binding174>
+      <Name Value="Gui_Hotbar_Col_7_Row_2"/>
+      <Binding Value=""/>
+    </binding174>
+    <binding175>
+      <Name Value="Gui_Hotbar_Col_2_Row_3"/>
+      <Binding Value=""/>
+    </binding175>
+    <binding176>
+      <Name Value="Gui_Hotbar_Col_7_Row_3"/>
+      <Binding Value=""/>
+    </binding176>
+    <binding177>
+      <Name Value="a_Toggle_AutoRun"/>
+      <Binding Value="ADD"/>
+    </binding177>
+    <binding178>
+      <Name Value="Gui_Hotbar_Col_1_Row_7"/>
+      <Binding Value=""/>
+    </binding178>
+    <binding179>
+      <Name Value="Gui_Hotbar_Col_1"/>
+      <Binding Value="NUMPAD1"/>
+    </binding179>
+    <binding180>
+      <Name Value="a_Walk"/>
+      <Binding Value="LEFT_CTRL"/>
+    </binding180>
+    <binding181>
+      <Name Value="Gui_GuiMode_Toggle"/>
+      <Binding Value="GRAVE"/>
+    </binding181>
+    <binding182>
+      <Name Value="Gui_Window_Options_Toggle"/>
+      <Binding Value=""/>
+    </binding182>
+    <binding183>
+      <Name Value="Gui_Hotbar_Col_Prev"/>
+      <Binding Value=""/>
+    </binding183>
+    <binding184>
+      <Name Value="Gui_Hotbar_Col_3_Row_5"/>
+      <Binding Value=""/>
+    </binding184>
+    <binding185>
+      <Name Value="Gui_Minimap_Zoom_Out"/>
+      <Binding Value="MINUS"/>
+    </binding185>
+    <binding186>
+      <Name Value="Gui_Hotbar_Col_Scroll"/>
+      <Binding Value=""/>
+    </binding186>
+    <binding187>
+      <Name Value="Gui_Hotbar_Col_1_Row_0"/>
+      <Binding Value=""/>
+    </binding187>
+    <binding188>
+      <Name Value="Gui_Hotbar_Col_8_Row_4"/>
+      <Binding Value=""/>
+    </binding188>
+    <binding189>
+      <Name Value="a_Toggle_Mousesmoothing"/>
+      <Binding Value=""/>
+    </binding189>
+    <binding190>
+      <Name Value="a_Parry"/>
+      <Binding Value="BUTTON_1"/>
+    </binding190>
+    <binding191>
+      <Name Value="Gui_Hotbar_Col_9_Row_5"/>
+      <Binding Value=""/>
+    </binding191>
+    <binding192>
+      <Name Value="Gui_Hotbar_Col_1_Row_8"/>
+      <Binding Value=""/>
+    </binding192>
+    <binding193>
+      <Name Value="Gui_Hotbar_Row_9"/>
+      <Binding Value="9"/>
+    </binding193>
+    <binding194>
+      <Name Value="Gui_Hotbar_Col_0_Row_2"/>
+      <Binding Value="END"/>
+    </binding194>
+    <binding195>
+      <Name Value="Gui_Hotbar_Col_4_Row_7"/>
+      <Binding Value=""/>
+    </binding195>
+  </Bindings>
+  <Options>
+    <MouseXSensitivity>
+      <Value Value="0.0025"/>
+    </MouseXSensitivity>
+    <MouseYSensitivity>
+      <Value Value="0.0025"/>
+    </MouseYSensitivity>
+    <MouseYInvert>
+      <Value Value="false"/>
+    </MouseYInvert>
+    <MouseSmoothingEnabled>
+      <Value Value="true"/>
+    </MouseSmoothingEnabled>
+    <MouseSmoothingAmount>
+      <Value Value="0.05"/>
+    </MouseSmoothingAmount>
+    <JoystickXSensitivity>
+      <Value Value="0.00005"/>
+    </JoystickXSensitivity>
+    <JoystickYSensitivity>
+      <Value Value="0.00005"/>
+    </JoystickYSensitivity>
+    <JoystickZSensitivity>
+      <Value Value="0.00005"/>
+    </JoystickZSensitivity>
+  </Options>
+</InputPersistence>

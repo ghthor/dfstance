@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GuiManagerPersistence>
+  <VersionInformation Incremental="0" Major="0" Minor="1"/>
+  <Hotbar>
+    <ColumnSelector>
+      <Value Value="6"/>
+    </ColumnSelector>
+    <Items>
+      <Col1>
+        <Row1>
+          <Class>
+            <Type Value="-671702168"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-343336023"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-423394074"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-680197033"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-800747945"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col1>
+      <Col2>
+        <Row1>
+          <Class>
+            <Type Value="-684665031"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-305110703"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col2>
+      <Col3>
+        <Row1>
+          <Class>
+            <Type Value="-143567709"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-365997853"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-226019241"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col3>
+      <Col4>
+        <Row1>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col4>
+      <Col5>
+        <Row1>
+          <Class>
+            <Type Value="-498672421"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col5>
+      <Col6>
+        <Row1>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col6>
+      <Col7>
+        <Row1>
+          <Class>
+            <Type Value="101787"/>
+          </Class>
+          <AttributeCount Value="3"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1234"/>
+            <value Value="61.0"/>
+          </Attribute2>
+          <Attribute3>
+            <type Value="640"/>
+            <value Value="0.47"/>
+          </Attribute3>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col7>
+      <Col8>
+        <Row1>
+          <Class>
+            <Type Value="100484"/>
+          </Class>
+          <AttributeCount Value="6"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1936"/>
+            <value Value="0.2"/>
+          </Attribute2>
+          <Attribute3>
+            <type Value="1234"/>
+            <value Value="20.0"/>
+          </Attribute3>
+          <Attribute4>
+            <type Value="2704"/>
+            <value Value="0.55"/>
+          </Attribute4>
+          <Attribute5>
+            <type Value="4496"/>
+            <value Value="0.23"/>
+          </Attribute5>
+          <Attribute6>
+            <type Value="1104"/>
+            <value Value="2.5"/>
+          </Attribute6>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row10>
+      </Col8>
+      <Col9>
+        <Row1>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="15872"/>
+          </Class>
+          <AttributeCount Value="1"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.5"/>
+          </Attribute1>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="100469"/>
+          </Class>
+          <AttributeCount Value="1"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.2"/>
+          </Attribute1>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="100470"/>
+          </Class>
+          <AttributeCount Value="1"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+        </Row10>
+      </Col9>
+      <Col10>
+        <Row1>
+          <Class>
+            <Type Value="101787"/>
+          </Class>
+          <AttributeCount Value="3"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1234"/>
+            <value Value="61.0"/>
+          </Attribute2>
+          <Attribute3>
+            <type Value="640"/>
+            <value Value="0.47"/>
+          </Attribute3>
+        </Row1>
+        <Row2>
+          <Class>
+            <Type Value="100569"/>
+          </Class>
+          <AttributeCount Value="3"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1234"/>
+            <value Value="61.0"/>
+          </Attribute2>
+          <Attribute3>
+            <type Value="640"/>
+            <value Value="0.6"/>
+          </Attribute3>
+        </Row2>
+        <Row3>
+          <Class>
+            <Type Value="101727"/>
+          </Class>
+          <AttributeCount Value="3"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1234"/>
+            <value Value="56.0"/>
+          </Attribute2>
+          <Attribute3>
+            <type Value="640"/>
+            <value Value="0.19"/>
+          </Attribute3>
+        </Row3>
+        <Row4>
+          <Class>
+            <Type Value="100803"/>
+          </Class>
+          <AttributeCount Value="3"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1234"/>
+            <value Value="51.0"/>
+          </Attribute2>
+          <Attribute3>
+            <type Value="640"/>
+            <value Value="0.31"/>
+          </Attribute3>
+        </Row4>
+        <Row5>
+          <Class>
+            <Type Value="100484"/>
+          </Class>
+          <AttributeCount Value="6"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1936"/>
+            <value Value="0.2"/>
+          </Attribute2>
+          <Attribute3>
+            <type Value="1234"/>
+            <value Value="20.0"/>
+          </Attribute3>
+          <Attribute4>
+            <type Value="2704"/>
+            <value Value="0.55"/>
+          </Attribute4>
+          <Attribute5>
+            <type Value="4496"/>
+            <value Value="0.23"/>
+          </Attribute5>
+          <Attribute6>
+            <type Value="1104"/>
+            <value Value="2.5"/>
+          </Attribute6>
+        </Row5>
+        <Row6>
+          <Class>
+            <Type Value="100939"/>
+          </Class>
+          <AttributeCount Value="1"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="100.0"/>
+          </Attribute1>
+        </Row6>
+        <Row7>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row7>
+        <Row8>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row8>
+        <Row9>
+          <Class>
+            <Type Value="-1"/>
+          </Class>
+          <AttributeCount Value="0"/>
+        </Row9>
+        <Row10>
+          <Class>
+            <Type Value="100370"/>
+          </Class>
+          <AttributeCount Value="2"/>
+          <Attribute1>
+            <type Value="1104"/>
+            <value Value="0.0"/>
+          </Attribute1>
+          <Attribute2>
+            <type Value="1234"/>
+            <value Value="40.0"/>
+          </Attribute2>
+        </Row10>
+      </Col10>
+    </Items>
+  </Hotbar>
+  <DebugOptions>
+    <CatchExceptions>
+      <Value Value="true"/>
+    </CatchExceptions>
+    <FullGuiDebug>
+      <Value Value="false"/>
+    </FullGuiDebug>
+    <YieldEnabled>
+      <Value Value="false"/>
+    </YieldEnabled>
+    <YieldMillisecs>
+      <Value Value="20.0"/>
+    </YieldMillisecs>
+    <Dump2DRequests>
+      <Value Value="false"/>
+    </Dump2DRequests>
+    <DisplayBandwidth>
+      <Value Value="false"/>
+    </DisplayBandwidth>
+    <PrecreateBrowsers>
+      <Value Value="false"/>
+    </PrecreateBrowsers>
+  </DebugOptions>
+  <EngineOptions>
+    <VideoOptions>
+      <MEMBER_MAXNUMDYNAMICLIGHTS>
+        <Value Value="1000"/>
+      </MEMBER_MAXNUMDYNAMICLIGHTS>
+      <MEMBER_MAXNUMBLOODSTAINS>
+        <Value Value="1000"/>
+      </MEMBER_MAXNUMBLOODSTAINS>
+      <MEMBER_MAXNUMPARTICLES>
+        <Value Value="1000"/>
+      </MEMBER_MAXNUMPARTICLES>
+      <MEMBER_OBJECT_CLIPPING>
+        <Value Value="true"/>
+      </MEMBER_OBJECT_CLIPPING>
+      <MEMBER_OBJECT_CLIPPING_MAX_SIZE_TO_CLIP>
+        <Value Value="100.0"/>
+      </MEMBER_OBJECT_CLIPPING_MAX_SIZE_TO_CLIP>
+      <MEMBER_OBJECT_CLIPPING_MAX_FUNCTION_VALUE>
+        <Value Value="100.0"/>
+      </MEMBER_OBJECT_CLIPPING_MAX_FUNCTION_VALUE>
+      <MEMBER_OBJECT_MIN_DISTANCE_TO_CLIP>
+        <Value Value="10.0"/>
+      </MEMBER_OBJECT_MIN_DISTANCE_TO_CLIP>
+      <MEMBER_ENABLE_DISTANCE_ANIMATION_REDUCTION>
+        <Value Value="false"/>
+      </MEMBER_ENABLE_DISTANCE_ANIMATION_REDUCTION>
+      <MEMBER_ANIMATION_DISTANCE_REDUCTION_START>
+        <Value Value="10.0"/>
+      </MEMBER_ANIMATION_DISTANCE_REDUCTION_START>
+      <MEMBER_ANIMATION_REDUCTION_PER_METER>
+        <Value Value="0.1"/>
+      </MEMBER_ANIMATION_REDUCTION_PER_METER>
+      <MEMBER_VEGETATION_AREA_SIZE>
+        <Value Value="50"/>
+      </MEMBER_VEGETATION_AREA_SIZE>
+      <MEMBER_VEGETATION_DENSITY>
+        <Value Value="30000"/>
+      </MEMBER_VEGETATION_DENSITY>
+      <MEMBER_ENABLE_TRIPLE_BUFFERING>
+        <Value Value="false"/>
+      </MEMBER_ENABLE_TRIPLE_BUFFERING>
+      <MEMBER_WAIT_FOR_VSYNC>
+        <Value Value="false"/>
+      </MEMBER_WAIT_FOR_VSYNC>
+      <MEMBER_ENABLE_ANTIALIASING>
+        <Value Value="false"/>
+      </MEMBER_ENABLE_ANTIALIASING>
+      <MEMBER_ANTIALIASING_QUALITY>
+        <Value Value="2"/>
+      </MEMBER_ANTIALIASING_QUALITY>
+      <MEMBER_GAMMA_CORRECTION>
+        <Value Value="2.0"/>
+      </MEMBER_GAMMA_CORRECTION>
+      <MEMBER_ENABLE_SHADOWS>
+        <Value Value="false"/>
+      </MEMBER_ENABLE_SHADOWS>
+      <MEMBER_ENABLE_SCENERY_SHADOWS>
+        <Value Value="false"/>
+      </MEMBER_ENABLE_SCENERY_SHADOWS>
+      <MEMBER_ENABLE_CHARACTER_SHADOWS>
+        <Value Value="false"/>
+      </MEMBER_ENABLE_CHARACTER_SHADOWS>
+      <MEMBER_SHADOW_QUALITY>
+        <Value Value="Medium"/>
+      </MEMBER_SHADOW_QUALITY>
+      <MEMBER_SHADOW_SMOOTHING>
+        <Value Value="Medium"/>
+      </MEMBER_SHADOW_SMOOTHING>
+      <MEMBER_ENABLE_DROP_SHADOWS>
+        <Value Value="false"/>
+      </MEMBER_ENABLE_DROP_SHADOWS>
+      <MEMBER_SHADER_VERSION>
+        <Value Value="PS1_1"/>
+      </MEMBER_SHADER_VERSION>
+      <MEMBER_TEXTURE_QUALITY>
+        <Value Value="Max"/>
+      </MEMBER_TEXTURE_QUALITY>
+      <MEMBER_TEXTURE_FILTERING>
+        <Value Value="Anisotropic"/>
+      </MEMBER_TEXTURE_FILTERING>
+      <MEMBER_TEXTURE_ANISOTROPY_LEVEL>
+        <Value Value="High"/>
+      </MEMBER_TEXTURE_ANISOTROPY_LEVEL>
+      <MEMBER_VIDEO_RESOLUTION>
+        <Value Value="1768x992@0"/>
+      </MEMBER_VIDEO_RESOLUTION>
+      <MEMBER_VIDEO_RESOLUTION_DISPLAY_LIST>
+        <Value Value="640x480@59;720x480@59;720x576@50;800x600@60;1176x664@59;1024x768@60;1280x720@50;1280x768@60;1152x864@60;1280x800@60;1360x768@60;1366x768@60;1280x960@60;1440x900@60;1280x1024@60;1600x900@60;1600x1024@60;1768x992@50;1680x1050@60;1920x1080@50;"/>
+      </MEMBER_VIDEO_RESOLUTION_DISPLAY_LIST>
+      <MEMBER_VIDEO_FULLSCREEN>
+        <Value Value="false"/>
+      </MEMBER_VIDEO_FULLSCREEN>
+      <MEMBER_ENABLE_POST_PROCESS_EFFECT>
+        <Value Value="true"/>
+      </MEMBER_ENABLE_POST_PROCESS_EFFECT>
+      <MEMBER_AUTO_OPTIMIZE_TARGET_FPS>
+        <Value Value="30"/>
+      </MEMBER_AUTO_OPTIMIZE_TARGET_FPS>
+      <MEMBER_AUTO_OPTIMIZE>
+        <Value Value="true"/>
+      </MEMBER_AUTO_OPTIMIZE>
+    </VideoOptions>
+  </EngineOptions>
+  <AudioOptions>
+    <AudioOptions>
+      <MEMBER_MAX_NUM_3D_SOUNDS>
+        <Value Value="45"/>
+      </MEMBER_MAX_NUM_3D_SOUNDS>
+      <MEMBER_AMBIENCE_VOLUME>
+        <Value Value="0"/>
+      </MEMBER_AMBIENCE_VOLUME>
+      <MEMBER_HITSOUND_ENABLED>
+        <Value Value="false"/>
+      </MEMBER_HITSOUND_ENABLED>
+      <MEMBER_SOUND_VOLUME>
+        <Value Value="60"/>
+      </MEMBER_SOUND_VOLUME>
+      <MEMBER_PRIVATE_MESSAGE_SOUND_ENABLED>
+        <Value Value="true"/>
+      </MEMBER_PRIVATE_MESSAGE_SOUND_ENABLED>
+    </AudioOptions>
+  </AudioOptions>
+</GuiManagerPersistence>
