@@ -236,7 +236,7 @@ class GatherStance extends Stance {
 
 ; OneHand
 #IfWinActive, Darkfall Online
-*$Tab::
+*~$CapsLock::
     ; Don't apply stance change if gui is Open
     if (isMouseShown()) {
         Send, {Tab}
@@ -270,7 +270,7 @@ class GatherStance extends Stance {
 
 ; Mage
 #IfWinActive, Darkfall Online
-*~$CapsLock::
+*$Tab::
     ; Don't apply stance change if gui is Open
     if (isMouseShown()) {
         return
