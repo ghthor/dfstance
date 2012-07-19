@@ -54,6 +54,7 @@ class TwoHandStance extends Stance {
     }
 
     Equip() {
+        WinSetTitle, Darkfall Online - Two Hander
         Send, % DFHotkey.equip_twohand
     }
 
@@ -72,6 +73,7 @@ class OneHandStance extends Stance {
     }
 
     Equip() {
+        WinSetTitle, Darkfall Online - Sword and Board
         Send, % DFHotkey.equip_onehand
         Sleep, 600
         this.EquipBoard()
@@ -95,6 +97,7 @@ class ArcherStance extends Stance {
     }
 
     Equip() {
+        WinSetTitle, Darkfall Online - Archery
         Send, % DFHotkey.equip_bow
     }
 }
@@ -140,6 +143,7 @@ class MageStance extends Stance {
     }
 
     Equip() {
+        WinSetTitle, Darkfall Online - Mage
         this.state.Apply()
         Send, % DFHotkey.equip_staff
     }
@@ -189,6 +193,7 @@ class GatherStance extends Stance {
     }
 
     Equip() {
+        WinSetTitle, Darkfall Online - Gathering
         Send, % DFHotkey.equip_gather
     }
 
