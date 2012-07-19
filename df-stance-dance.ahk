@@ -326,7 +326,7 @@ class GatherStance extends Stance {
 ForceEquip() {
     global force_equip_count
 
-    SetTimer, force_equip, -200, 1
+    SetTimer, force_equip, -400, 1
     force_equip_count += 1
     return
 
