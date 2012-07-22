@@ -318,7 +318,7 @@ class GatherStance extends Stance {
     return
 
 #IfWinActive, Darkfall Online
-*XButton2::
+*MButton::
     stance.Mouse5()
     return
 
